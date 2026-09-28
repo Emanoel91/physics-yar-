@@ -1,1 +1,18 @@
- [{ "relation": ["delegate_permission/common.handle_all_urls"], "target": { "namespace": "android_app", "package_name": "io.github.emanoel91.twa", "sha256_cert_fingerprints": ["9D:18:BB:87:D0:1B:00:FD:AE:BD:6E:E3:24:58:A1:67:A4:A9:6A:75:E9:6B:50:93:82:08:E7:03:2D:56:85:98"] } }] 
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.emanoel91.twa",
+      "sha256_cert_fingerprints": ["9D:18:BB:87:D0:1B:00:FD:AE:BD:6E:E3:24:58:A1:67:A4:A9:6A:75:E9:6B:50:93:82:08:E7:03:2D:56:85:98"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "cafebazaar_twa",
+      "package_name": "io.github.emanoel91.twa",
+      "sha256_cert_fingerprints": ["9D:18:BB:87:D0:1B:00:FD:AE:BD:6E:E3:24:58:A1:67:A4:A9:6A:75:E9:6B:50:93:82:08:E7:03:2D:56:85:98"]
+    }
+  }
+]
